@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hyperspace
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Hyperspace theme by HTML5 UP.
+title: Woven Myths
+email: jacobtmeyer@gmail.com
+description: My personal site for studies and stories.
 baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+url: "https://wovenmyths.com" # the base hostname & protocol for your site
 
 # Social settings
 500px_url: 
